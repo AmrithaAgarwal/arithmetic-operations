@@ -8,5 +8,6 @@ scanf("%d%d",&a,&b);
 c=a+b;
 printf("Sum=%d\n",c);
 c=a-b;
-printf("Sum=%d\n",c);
+printf("Sub=%d\n",c);
+printf("Thank You for Using\n");
 }
